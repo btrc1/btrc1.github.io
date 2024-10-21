@@ -1,7 +1,7 @@
 ---
 title: Receta de galletas de mantequilla con 
 layout: home
-parent: index3
+parent: Receta de galletas de mantequilla
 nav_order: 1
 ---
 **Galletas de mantequilla con chocolate**
