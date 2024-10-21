@@ -35,4 +35,5 @@ Escurre la pasta y mezcla con tu salsa favorita (puede ser una simple salsa de t
 Sirve caliente, espolvorea con queso parmesano si lo deseas.
 
 
-![image](https://github.com/user-attachments/assets/a0b08893-f5a4-4358-92c7-83fd3a8dd825)
+![image](https://github.com/user-attachments/assets/9e679ead-23f4-4fe4-8d19-8d4ff3a80ad1)
+
