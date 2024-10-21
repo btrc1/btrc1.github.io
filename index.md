@@ -30,4 +30,5 @@ Hornear: Hornea durante 10-12 minutos, o hasta que los bordes estén dorados. La
 
 Enfriar: Deja enfriar las galletas en una rejilla antes de disfrutarlas.
 
-![image] (https://github.com/user-attachments/assets/a98f434f-e44a-43ea-bf00-40482198a256)
+![image](https://github.com/user-attachments/assets/5929e7d1-7911-404c-8cdc-f6fbdc8755f5)
+
