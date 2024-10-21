@@ -52,4 +52,5 @@ Servir:
 
 Saca la pizza del horno, déjala enfriar un poco y córtala en porciones. ¡Disfruta!
 
-![image](https://github.com/user-attachments/assets/a1e1696f-486c-4bc2-a88a-f8d742f786f5)
+![image](https://github.com/user-attachments/assets/d7f61dfd-8f54-464c-9e72-fc22a70bd1cc)
+
