@@ -1,6 +1,7 @@
 ---
 title: Receta de galletas de mantequilla
 layout: home
+has_children: true
 ---
 
 **Galletas de Mantequilla**
