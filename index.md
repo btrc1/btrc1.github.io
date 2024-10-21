@@ -29,4 +29,5 @@ Formar las galletas: Con una cuchara, forma pequeñas porciones de masa y colóc
 Hornear: Hornea durante 10-12 minutos, o hasta que los bordes estén dorados. Las galletas seguirán cocinándose un poco al sacarlas del horno.
 
 Enfriar: Deja enfriar las galletas en una rejilla antes de disfrutarlas.
+
 ![image](https://github.com/user-attachments/assets/a98f434f-e44a-43ea-bf00-40482198a256)
